@@ -1,0 +1,43 @@
+.container{
+    justify-content: center;
+}
+nav{
+    margin-left: 80%;
+    background-color: yellowgreen;
+}
+.intro{
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+    
+}
+.pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    background-image: "./back.jpg";
+}
+h2{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p {
+    text-align: center;
+}
+.btn{
+    display: grid;
+    left: 50%;
+}
+.contact{
+    top: 10rem;
+    bottom: 10rem;
+    display: flex;
+    justify-content:center ;
+    text-align: center;
+}
+.footer{
+    position: relative;
+    text-align: center;
+}
